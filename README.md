@@ -15,3 +15,8 @@
 
 [Github logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+## Syntax highlighting
+
+~~~html
+<h1>Hello World</h1>
+~~~
